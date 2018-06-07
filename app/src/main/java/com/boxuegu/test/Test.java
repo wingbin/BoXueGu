@@ -5,4 +5,8 @@ package com.boxuegu.test;
  */
 
 public class Test {
+    public void test(){
+
+    }
 }
+
